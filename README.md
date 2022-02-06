@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rk012
+- 👀 I’m interested in Kotlin, Python, Web development, and AI/ML
+- 🌱 I’m currently learning Kotlin and PyTorch
+- 📫 How to reach me [rishi.kumar.2837@gmail.com](mailto:rishi.kumar.2837@gmail.com)
